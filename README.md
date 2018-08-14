@@ -1,0 +1,2 @@
+# GiantConnect
+Giant Javascript API
